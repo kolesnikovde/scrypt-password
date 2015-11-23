@@ -1,7 +1,7 @@
 {
   "name": "scrypt-password",
   "version": "0.0.1",
-  "description": "Ruby compatible scrypt hashing utility for Node.",
+  "description": "Ruby compatible scrypt hashing utility for Node.js.",
   "author": "Danil Kolesnikov <kolesnikovde@gmail.com>",
   "homepage": "https://github.com/kolesnikovde/scrypt-password",
   "main": "index.js",
